@@ -1,0 +1,44 @@
+font-family: 'Jura', sans-serif;
+h1 {
+font-size: 40px;
+font-family: 'Jura', sans-serif;
+font-weight: thick;
+background-image:linear-gradient(cyan, blue, green);
+color:white;
+}
+
+p {
+font-family: 'Russo One', sans-serif;
+font color:"633200";
+font-weight: thick;
+text-indent:2.0em;
+}
+table {
+	border-collapse: collapse;
+	color:black;
+}
+
+table th {
+	text-align: left;
+	background-color: #1338BE;
+	color: #FFFFFF;
+	padding: 5px 30px 5px 9px;
+}
+
+table td {
+	border: 2px solid #000000;
+	padding: 5px 9px;
+}
+
+table tr:nth-child(odd) td {
+	background-color: #63C5DA;
+}
+
+table tr:nth-child(even) td {
+	background-color: #37E81C;
+}
+
+ul {
+	color:red;
+}
+
