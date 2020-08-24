@@ -1,4 +1,4 @@
-font-family: 'Jura', sans-serif;
+
 h1 {
 font-size: 40px;
 font-family: 'Jura', sans-serif;
@@ -9,7 +9,7 @@ color:white;
 
 p {
 font-family: 'Russo One', sans-serif;
-font color:"633200";
+color: #633200;
 font-weight: thick;
 text-indent:2.0em;
 }
